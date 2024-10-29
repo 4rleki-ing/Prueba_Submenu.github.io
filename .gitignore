@@ -1,0 +1,11 @@
+.rvmrc
+_site
+
+*.swp
+*.swo
+
+.DS_Store
+
+# IntelliJ IDEA / WebStorm
+/.idea/
+/*.iml
