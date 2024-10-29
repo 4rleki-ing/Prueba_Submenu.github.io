@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: Ajax Request Without jQuery
-chapter: Ajax
+title: Offensive Security Intro
+chapter: Comience su viaje de Seguridad Cibernética
 ---
 ## Problem
 

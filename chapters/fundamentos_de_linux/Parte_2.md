@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Fundamentos de Linux - Parte 2
+title: Parte 2
 chapter: Fundamentos de Linux
 ---
 ## Problem

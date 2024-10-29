@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: Parte 1
-chapter: Fundamentos de Linux
+title: TryWinMe: Think Cyber Monopoly
+chapter: Comience su viaje de Seguridad Cibernética
 ---
 ## Problem
 
