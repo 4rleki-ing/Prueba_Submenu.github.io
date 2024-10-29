@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: Ajax Request Without jQuery
-chapter: Ajax
+title: Fundamentos de Linux - Parte 2
+chapter: Fundamentos de Linux
 ---
 ## Problem
 
