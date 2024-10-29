@@ -35,7 +35,7 @@ En Internet todo el mundo puede publicar sus escritos. Puede ser en forma de pub
 Es nuestro trabajo, como lectores, evaluar la información. Mencionaremos algunas cosas a considerar al evaluar la información:
 
 - **Fuente**: Identifique el autor u organización que publica la información. Considere si tienen buena reputación y autoridad en el tema. Publicar una publicación de blog no lo convierte a uno en una autoridad en el tema.
-- `Evidencia y razonamiento`: verifique si las afirmaciones están respaldadas por evidencia creíble y razonamiento lógico. Buscamos hechos concretos y argumentos sólidos.
+- ***Evidencia y razonamiento***: verifique si las afirmaciones están respaldadas por evidencia creíble y razonamiento lógico. Buscamos hechos concretos y argumentos sólidos.
 - `Objetividad y sesgo`: Evaluar si la información se presenta de manera imparcial y racional, reflejando múltiples perspectivas. No estamos interesados ​​en que los autores impulsen agendas turbias, ya sea para promocionar un producto o atacar a un rival.
 - `Corroboración y coherencia`: Validar la información presentada mediante la corroboración de múltiples fuentes independientes. Compruebe si varias fuentes confiables y acreditadas están de acuerdo con las afirmaciones centrales.
 
