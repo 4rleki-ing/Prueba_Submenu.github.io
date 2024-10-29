@@ -63,7 +63,7 @@ Puede consultar controles más avanzados en varios motores de búsqueda en esta 
 - ¿Cómo limitaría su búsqueda en Google a archivos PDF que contengan los términos informe de guerra cibernética ? `filetype:pdf cyber warfare report`
 - Que frase manda el linux `ss` ¿representar? `socket statistics`
 
-## Motores de búsqueda especializados
+<h2>Motores de búsqueda especializados</h2>
 Está familiarizado con los motores de búsqueda de Internet; Sin embargo, ¿qué tan familiarizado estás con los motores de búsqueda especializados? Con esto nos referimos a los motores de búsqueda utilizados para encontrar tipos específicos de resultados.
 
 ### Shodan
