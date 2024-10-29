@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: TryWinMe: Think Cyber Monopoly
-chapter: Comience su viaje de Seguridad Cibernética
+chapter: Comience su viaje de Seguridad Cibernetica
 ---
 ## Las entradas significan premios
 ¡Sube de nivel tus habilidades con nuestras salas y gana boletos! ¡Consigue 3 boletos iguales para reclamar tu premio!

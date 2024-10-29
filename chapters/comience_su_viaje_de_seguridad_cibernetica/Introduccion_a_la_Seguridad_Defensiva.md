@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Introducción a la Seguridad Defensiva
-chapter: Comience su viaje de Seguridad Cibernética
+chapter: Comience su viaje de Seguridad Cibernetica
 ---
 ## Introducción a la seguridad defensiva
 

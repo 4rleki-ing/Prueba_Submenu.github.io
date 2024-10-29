@@ -3,7 +3,6 @@ layout: recipe
 title: Offensive Security Intro
 chapter: Comience su viaje de Seguridad Cibernetica
 ---
-## Problem
 ## ¿Qué es la seguridad ofensiva?
 "Para ser más astuto que un hacker, es necesario pensar como tal".
 
