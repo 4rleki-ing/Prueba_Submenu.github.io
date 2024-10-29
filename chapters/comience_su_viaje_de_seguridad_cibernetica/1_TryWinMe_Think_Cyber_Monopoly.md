@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: TryWinMe: Think Cyber Monopoly
+title: 1. TryWinMe: Think Cyber Monopoly
 chapter: Comience su viaje de Seguridad Cibernetica
 ---
 ## Las entradas significan premios
