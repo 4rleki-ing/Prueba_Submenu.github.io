@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Introducción a la Seguridad Defensiva
+title: 3. Introducción a la Seguridad Defensiva
 chapter: Comience su viaje de Seguridad Cibernetica
 ---
 ## Introducción a la seguridad defensiva

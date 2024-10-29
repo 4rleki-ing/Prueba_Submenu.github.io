@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Offensive Security Intro
+title: 2. Offensive Security Intro
 chapter: Comience su viaje de Seguridad Cibernetica
 ---
 ## ¿Qué es la seguridad ofensiva?

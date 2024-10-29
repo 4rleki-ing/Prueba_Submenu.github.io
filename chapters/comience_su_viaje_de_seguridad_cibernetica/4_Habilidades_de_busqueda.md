@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Habilidades de Búsqueda
+title: 4. Habilidades de Búsqueda
 chapter: Comience su viaje de Seguridad Cibernetica
 ---
 ## Introducción
